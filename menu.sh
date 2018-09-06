@@ -117,7 +117,7 @@ echo -e "${WHITE}
 echo -e "${WHITE}
 ╔═╗┬  ┌─┐┬ ┬┌┬┐╔═╗┬  ┌─┐┬─┐┌─┐${RED}
 ║  │  │ ││ │ ││╠╣ │  ├─┤├┬┘├┤ ${PURPLE}
-╚═╝┴─┘└─┘└─┘─┴┘╚  ┴─┘┴ ┴┴└─└─┘ YANLIZ KURT & CAGRI CIFTCI ${WHITE}
+╚═╝┴─┘└─┘└─┘─┴┘╚  ┴─┘┴ ┴┴└─└─┘ COLAK & CAGRI CIFTCI ${WHITE}
 "${WHITE}
     echo -e "${WHITE}Note: "${GREEN}CTRL + Z YAPARAK SCRIPTDEN CIKIS YAPABILIRSINIZ
     echo -e "${WHITE}[===============> DARKSECARMY.COM <==================]"
